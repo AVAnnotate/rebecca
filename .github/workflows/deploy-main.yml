@@ -1,0 +1,68 @@
+name: Deploy main branch to GitHub Pages
+
+on:
+  # Trigger the workflow every time you push to the `main` branch
+  # Using a different branch name? Replace `main` with your branch’s name
+  push:
+    branches: [main]
+  # Allows you to run this workflow manually from the Actions tab on GitHub.
+  workflow_dispatch:
+
+# Allow this job to clone the repo and create a page deployment
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  checkout-build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout project repository
+        uses: actions/checkout@v4
+
+      - name: Checkout project-client
+        uses: actions/checkout@v4
+        with:
+          repository: AVAnnotate/project-client
+          path: "./client"
+          ref: "main"
+          token: ${{ secrets.PA_TOKEN }}
+
+      - name: npm install
+        working-directory: "./client"
+        run: npm install
+
+      - name: Read in the project file
+        id: project
+        uses: antifree/json-to-variables@v1.0.1
+        with:
+          filename: ./data/project.json
+          prefix: project
+
+      # Only publish when directed
+      - name: Setup Pages
+        if: ${{ env.project_publish_publishPagesApp == 'true' }}
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build Astro Client
+        if: ${{ env.project_publish_publishPagesApp == 'true' }}
+        working-directory: "./client"
+        run: npm run build \
+          --site "${{ steps.pages.outputs.origin }}" \
+          --base "${{ steps.pages.outputs.base_path }}"
+
+      - name: Upload artifact
+        if: ${{ env.project_publish_publishPagesApp == 'true' }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./client/dist/"
+
+      - name: Deploy to GitHub Pages
+        if: ${{ env.project_publish_publishPagesApp == 'true' }}
+        id: deployment
+        uses: actions/deploy-pages@v4
+        env:
+          name: github-pages
+          url: ${{ steps.deployment.outputs.page_url }}
