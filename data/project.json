@@ -1,1 +1,34 @@
-{"publish":{"publishPagesApp":true,"publishSHA":"","publishISODate":""},"users":[{"loginName":"ajolipa","avatarURL":"https://avatars.githubusercontent.com/u/110847635?v=4","admin":false}],"project":{"gitHubOrg":"AVAnnotate","title":"For Rebecca","description":"Testing","language":"en","slug":"rebecca","creator":"lwjameson","authors":"","mediaPlayer":"avannotate","autoPopulateHomePage":true,"additionalUsers":[{"loginName":"ajolipa","avatarURL":"https://avatars.githubusercontent.com/u/110847635?v=4","admin":false}],"createdAt":"2024-06-27T17:29:04.128Z","updatedAt":"2024-06-27T17:29:04.128Z"},"events":[]}
+{
+  "publish": {
+    "publishPagesApp": true,
+    "publishSHA": "",
+    "publishISODate": ""
+  },
+  "users": [
+    {
+      "loginName": "ajolipa",
+      "avatarURL": "https://avatars.githubusercontent.com/u/110847635?v=4",
+      "admin": false
+    }
+  ],
+  "project": {
+    "gitHubOrg": "AVAnnotate",
+    "title": "For Rebecca",
+    "description": "Testing",
+    "language": "en",
+    "slug": "rebecca",
+    "creator": "lwjameson",
+    "authors": "",
+    "mediaPlayer": "avannotate",
+    "autoPopulateHomePage": true,
+    "additionalUsers": [
+      {
+        "loginName": "ajolipa",
+        "avatarURL": "https://avatars.githubusercontent.com/u/110847635?v=4",
+        "admin": false
+      }
+    ],
+    "createdAt": "2024-06-27T17:29:04.128Z",
+    "updatedAt": "2024-06-27T17:29:04.128Z"
+  }
+}

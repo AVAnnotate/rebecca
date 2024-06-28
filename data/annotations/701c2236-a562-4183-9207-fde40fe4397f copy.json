@@ -1,0 +1,741 @@
+{
+  "event_id": "52d88bad-1808-4f12-979d-6fcfbc47c073",
+  "source_id": "8626c255-953b-4e98-8a10-41033f13a0e5",
+  "annotations": [
+    {
+      "Time": "0:00                                                         -                                     0:40",
+      "Annotation": "Men singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "0:48                                                         -                                     0:52",
+      "Annotation": "2714 B1 and 2",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "0:53                                                         -                                     1:01",
+      "Annotation": "[Inaudible]",
+      "Layer": "Inaudible"
+    },
+    {
+      "Time": "1:02                                                         -                                     2:60",
+      "Annotation": "Women singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "3:04                                                         -                                     5:40",
+      "Annotation": "Man singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "5:41                                                         -                                     5:44",
+      "Annotation": "2715 A1 and 2",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "5:47                                                         -                                     5:60",
+      "Annotation": "[Inaudible]",
+      "Layer": "Inaudible"
+    },
+    {
+      "Time": "5:59                                                         -                                     8:38",
+      "Annotation": "Men singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "8:44                                                         -                                     10:26",
+      "Annotation": "Men singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "10:38                                                         -                                     10:41",
+      "Annotation": "2715 B1 and 2",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "10:46                                                         -                                     11:26",
+      "Annotation": "Instruments playing",
+      "Layer": "Instruments"
+    },
+    {
+      "Time": "11:26                                                         -                                     11:37",
+      "Annotation": "Man singing with instruments",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "11:37                                                         -                                     12:51",
+      "Annotation": "Instruments playing",
+      "Layer": "Instruments"
+    },
+    {
+      "Time": "12:51                                                         -                                     13:02",
+      "Annotation": "Man singing with instruments",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "13:02                                                         -                                     13:10",
+      "Annotation": "Instruments playing",
+      "Layer": "Instruments"
+    },
+    {
+      "Time": "13:22                                                         -                                     13:45",
+      "Annotation": "Instruments playing",
+      "Layer": "Instruments"
+    },
+    {
+      "Time": "13:45                                                         -                                     13:57",
+      "Annotation": "Man and woman singing with instruments",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "13:57                                                         -                                     14:32",
+      "Annotation": "Instruments playing",
+      "Layer": "Instruments"
+    },
+    {
+      "Time": "14:32                                                         -                                     14:45",
+      "Annotation": "Man and woman singing with instruments",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "14:45                                                         -                                     15:30",
+      "Annotation": "Instruments playing",
+      "Layer": "Instruments"
+    },
+    {
+      "Time": "15:36                                                         -                                     15:39",
+      "Annotation": "2716 A1 and 2",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "15:44                                                         -                                     15:50",
+      "Annotation": "[Inaudible]",
+      "Layer": "Inaudible"
+    },
+    {
+      "Time": "15:50                                                         -                                     17:59",
+      "Annotation": "Women singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "18:06                                                         -                                     18:06",
+      "Annotation": "Alright.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "18:07                                                         -                                     20:25",
+      "Annotation": "Women singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "20:26                                                         -                                     20:29",
+      "Annotation": "2716 B1",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "20:32                                                         -                                     20:33",
+      "Annotation": "Alright. Let's play.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "20:33                                                         -                                     23:25",
+      "Annotation": "Women singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "23:28                                                         -                                     23:32",
+      "Annotation": "2717 A1, 2, and3",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "23:33                                                         -                                     24:10",
+      "Annotation": "Instruments playing",
+      "Layer": "Instruments"
+    },
+    {
+      "Time": "24:10                                                         -                                     24:14",
+      "Annotation": "Man singing with instruments",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "24:14                                                         -                                     24:33",
+      "Annotation": "Instruments playing",
+      "Layer": "Instruments"
+    },
+    {
+      "Time": "24:33                                                         -                                     24:37",
+      "Annotation": "Man singing with instruments",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "24:37                                                         -                                     24:45",
+      "Annotation": "Instruments playing",
+      "Layer": "Instruments"
+    },
+    {
+      "Time": "24:45                                                         -                                     24:49",
+      "Annotation": "Man singing with instruments",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "24:49                                                         -                                     25:09",
+      "Annotation": "Instruments playing",
+      "Layer": "Instruments"
+    },
+    {
+      "Time": "25:20                                                         -                                     26:45",
+      "Annotation": "Instruments playing",
+      "Layer": "Instruments"
+    },
+    {
+      "Time": "26:48                                                         -                                     27:47",
+      "Annotation": "Instruments playing",
+      "Layer": "Instruments"
+    },
+    {
+      "Time": "27:49                                                         -                                     27:53",
+      "Annotation": "2717 B1 and 2",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "27:59                                                         -                                     27:60",
+      "Annotation": "Alright.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "28:01                                                         -                                     31:06",
+      "Annotation": "Man singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "31:12                                                         -                                     32:50",
+      "Annotation": "Man singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "32:53                                                         -                                     32:57",
+      "Annotation": "2718 A1 and 2",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "32:60",
+      "Annotation": "Alright.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "33:01                                                         -                                     35:40",
+      "Annotation": "Woman singing with ukulele",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "35:48                                                         -                                     35:50",
+      "Annotation": "[inaudible] Now go.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "35:50                                                         -                                     37:28",
+      "Annotation": "Woman singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "37:37                                                         -                                     37:41",
+      "Annotation": "2718 B1, 2 and 3",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "37:43                                                         -                                     37:54",
+      "Annotation": "[Inaudible]",
+      "Layer": "Inaudible"
+    },
+    {
+      "Time": "37:54                                                         -                                     40:33",
+      "Annotation": "Woman singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "40:39",
+      "Annotation": "Alright sing!",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "40:41                                                         -                                     41:28",
+      "Annotation": "Children singing and clapping",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "41:31                                                         -                                     41:33",
+      "Annotation": "Go ahead. Sing it again.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "41:33",
+      "Annotation": "Children singing and clapping",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "41:48",
+      "Annotation": "[Distortion]",
+      "Layer": "Distortion"
+    },
+    {
+      "Time": "42:22                                                         -                                     42:24",
+      "Annotation": "2720 A1 and 2",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "42:45",
+      "Annotation": "Men singing",
+      "Layer": "Unknown"
+    },
+    {
+      "Time": "44:33",
+      "Annotation": "[Distortion]",
+      "Layer": "Distortion"
+    },
+    {
+      "Time": "45:20",
+      "Annotation": "[Distortion]",
+      "Layer": "Distortion"
+    },
+    {
+      "Time": "45:26                                                         -                                     45:28",
+      "Annotation": "3135 A",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "45:30",
+      "Annotation": "My name is Zora Neal Hurston. I was born in Eatonville, FLorida. I'm 35 years old. This song that I'm going to sing is a railroad song that I found on a railroad gang near Miami and was song to me by Max Ford.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "45:50",
+      "Annotation": "How long ago was that?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "45:52",
+      "Annotation": "That was in 1930.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "45:56",
+      "Annotation": "How did you happen to be going around getting songs?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "45:58",
+      "Annotation": "I was collecting folk material for Columbia University as part of the Barnard College, Columbia University.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "46:06",
+      "Annotation": "What is the song called?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "46:07",
+      "Annotation": "They call it Gonna see my long-haired babe and it's a railroad spiking song and the rhythm is kept with a spike and a hammer.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "46:17",
+      "Annotation": "Will you try to emphasize, give me the approximate rhythm of the hammer with the stick by hitting it against that?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "46:23",
+      "Annotation": "Yes, sir.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "46:27",
+      "Annotation": "ZNH sings 'Gonna See My Long-Haired Babe'",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "48:04",
+      "Annotation": "Let them hammers ring, boy.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "48:08",
+      "Annotation": "I see you, you seem to be hitting down twice for a hammer. Why is that?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "48:15",
+      "Annotation": "Uh, the men face each other with hammers and they call on each other; they're breasted, they stand breast to breast and one comes down and the other one comes down.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "48:23",
+      "Annotation": "Immediately afterwards?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "48:24",
+      "Annotation": "Yes, one comes down [strike, strike]",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "48:27",
+      "Annotation": "I see [strike, strike] and how long is that between the double strikes?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "48:33",
+      "Annotation": "The minute that one goes down, the other is on the upstroke and comes right down behind it.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "48:37",
+      "Annotation": "And who does the singing?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "48:38",
+      "Annotation": "They sing in line. It's a man who doesn't work at all. And he walks up and down and gives the rhythm for the people to work.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "48:46",
+      "Annotation": "Is this for a whole crew of men?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "48:47",
+      "Annotation": "A whole crew of men singing this one time and the railroad has to pay the singing liner or else the men won't work.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "48:55",
+      "Annotation": "What I'm asking you is if you hear that you only hear the one man singing on a whole section of track.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "49:01",
+      "Annotation": "Not all the time, because different ones have verses they want to put in themselves and so they jump in and after they start the song but the singing liner always starts it.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "49:09",
+      "Annotation": "Well now look, uh, the only thing is that you were giving a long piece of singing without the rhythm of the hammer and I want to know approximately how often that comes.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "49:19",
+      "Annotation": "Well, they often do that and then after that they [distortion] get in there but they [distortion]",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "49:29",
+      "Annotation": "3135 B1 and 2",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "49:34",
+      "Annotation": "[inaudible]",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "49:38",
+      "Annotation": "Uh, this song I got in Callahan, Florida, which is a railroad center in the northern part of Florida.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "49:47",
+      "Annotation": "Inaudible.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "49:49",
+      "Annotation": "I got this in 1935. I don't remember the man's name who sung it to me but I got it at Callahan. It's a railroad camp.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "49:57",
+      "Annotation": "What kind of song is it?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "49:59",
+      "Annotation": "This is not exactly a song. It's a chant for the men lining. You know a railroad rail weighs 900 pounds and the men have to take these lining bars and get it in shape to spike it down. And while they're doing that why they have a chant that, uh, and also some songs that they be used to, the rhythm to work it into place and then the boss hollers 'Bring 'em a hammer gang' and they start to spike it down. And this is a chant for lining the rail.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "50:29",
+      "Annotation": "ZNH chants 'Let's Shake It'",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "50:51",
+      "Annotation": "I'd like you to do that again. But this time, when they have . . . What do they call the irons they use?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "50:56",
+      "Annotation": "They call it a lining bar.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "50:57",
+      "Annotation": "Alright. The lining bar. When they work but don't you hear the clink of it?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "51:02",
+      "Annotation": "It's a 'hah'! Now you don't hear the lining bar because it's under the rail and they shove the rail with it.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "51:08",
+      "Annotation": "They hit against it?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "51:09",
+      "Annotation": "No, it's under it. You see, it's just like on this. It's a crow bar.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "51:13",
+      "Annotation": "Because over in Mississippi, they showed me by hitting the thing. They said that the way that they did it was by several men taking a short hit.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "51:22",
+      "Annotation": "Well, I've seen them put it between their legs this way and put it back and they get this, this splange under the rail, and then they 'heh, heh'. You know, like that.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "51:31",
+      "Annotation": "Well, now what do they do? Are they pulling it, pulling it --",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "51:33",
+      "Annotation": "Pulling it backwards, they're moving it backwards.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "51:34",
+      "Annotation": "In other words, they have it underneath and they're using the lever to go forward.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "51:38",
+      "Annotation": "That's right. Yes.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "51:40",
+      "Annotation": "Alright.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "51:41",
+      "Annotation": "And all the men, you know because it's always straining and they 'heh'.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "51:43",
+      "Annotation": "About how many are there on a bar?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "51:44",
+      "Annotation": "Oh, some time it's about 7 or 8 on at one time.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "51:49",
+      "Annotation": "Hmhm. Well, I suppose you try it and you sing it over again.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "51:52",
+      "Annotation": "Alright",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "51:53",
+      "Annotation": "Or chant it.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "51:57",
+      "Annotation": "ZNH chants 'Let's Shake It'",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "52:23",
+      "Annotation": "I got 'That Old Black Gal' is a spiking song that I got down there in Miami and was song by Max Ford the singing liner on this construction crew.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "52:34",
+      "Annotation": "What's it used for?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "52:35",
+      "Annotation": "Used for spiking down the rails.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "52:38",
+      "Annotation": "ZNH chants 'That Old Black Gal'",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "53:48",
+      "Annotation": "3136 A",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "53:51",
+      "Annotation": "This song they called 'Shove it Over' and it's the lining rhythm pretty generally distributed all over Florida. It was sung to me by Charlie Jones on a railroad construction camp in Lakeland, Florida.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "54:04",
+      "Annotation": "About how long ago?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "54:06",
+      "Annotation": "Uh, I gathered that in '33, 1933.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "54:12",
+      "Annotation": "ZNH sings 'Shove it over'",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "56:01",
+      "Annotation": "This is again for lining?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "56:03                                                         -                                     56:03",
+      "Annotation": "This is a lining rhythm.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "56:03                                                         -                                     56:06",
+      "Annotation": "Now where is the movement?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "56:06                                                         -                                     56:12",
+      "Annotation": "When they say Shacka-lacka-lacka like they are getting ready to pull back and when they say 'heh' they shove the rail over.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "56:12                                                         -                                     56:16",
+      "Annotation": "In other words, this song gives them quite a lot of rest in between.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "56:16                                                         -                                     56:17",
+      "Annotation": "Right a lot of rest in between.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "56:17                                                         -                                     56:18",
+      "Annotation": "And a harder shove?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "56:18                                                         -                                     56:21",
+      "Annotation": "And a harder shove at the end. And they say 'heh', they all go.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "56:21                                                         -                                     56:26",
+      "Annotation": "It seems to have had a different effect from the other lining one you gave, I mean that one about Mobile.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "56:26                                                         -                                     56:36",
+      "Annotation": "Yes, but someone was short and someone only just come to the mood of the liner. And the men work whatever song he sung, they work that rhythm.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "56:36                                                         -                                     57:19",
+      "Annotation": "Uh, now when the men are lining, they put the rail down, and then of course the captain, he's crouched straddle of it and uh, looks down it so he can tell when it's lined up in exact line with the others. And if they carry it, well he'll say shove it over and if they carry it too far, he'll say send it back and when they get it exactly in line, he'll tell em 'join it ahead' but then they corrupted that to 'join ahead' and all of them say 'join ahead' for 'join it ahead'. And, uh, so, uh, this song is about a lining and the rhythm goes with, they put this lining bar, this long steel bar, crow bar, between their legs so they have greater purchase and pull back on it.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "57:19                                                         -                                     57:22",
+      "Annotation": "Well, wait a minute. They pull back . . . and how are they facing in relation to the rail.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "57:22                                                         -                                     57:25",
+      "Annotation": "Their back is to the rail.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "57:25                                                         -                                     57:28",
+      "Annotation": "In other words, they're pulling up on the bar.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "57:28                                                         -                                     57:33",
+      "Annotation": "They're pulling up on the bar. They don't have to look at the rail because that's the captain's job to see when it's right.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "57:33                                                         -                                     57:36",
+      "Annotation": "Well, what do they do? Do they, how do they get it under the bar, the rail?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "57:36                                                         -                                     57:41",
+      "Annotation": "They just push the flange of this lining bar under the rail and then pull back on it.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "57:41                                                         -                                     57:43",
+      "Annotation": "Do they have to look back at it or do they just feel it?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "57:43                                                         -                                     57:50",
+      "Annotation": "Oh, they can just feel it. Sometimes they look back, you know, but most of them, they just can feel it and they send it back on there.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "57:50                                                         -                                     57:60",
+      "Annotation": "Well, uh, you were saying, you were explaining that there's different rhythms that they have. Are there any particular times when a faster on or a slower one would be used?",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "57:60                                                         -                                     58:28",
+      "Annotation": "Well, it's different; it's not any particular time except just the feeling of the singing liner. Whatever song he starts. If it's a fast rhythm they work fast; if its's a slow one, well they work, you know, a little slower but they get just as much work done, it seems, somehow or another.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "58:18                                                         -                                     58:23",
+      "Annotation": "3136 B",
+      "Layer": "Library of Congress"
+    },
+    {
+      "Time": "58:28                                                         -                                     58:31",
+      "Annotation": "ZNH singing low.",
+      "Layer": "Zora Neale Hurston"
+    },
+    {
+      "Time": "58:31                                                         -                                     58:32",
+      "Annotation": "Alright.",
+      "Layer": "Herbert Halpert"
+    },
+    {
+      "Time": "58:32                                                         -                                     58:51",
+      "Annotation": "Alright, this song I'm going to sing is a lining rhythm and I'm going to call it Mule on the Mount though you can start with any verse you want and give it a name and it's the most widely distributed work song in the United States and it has innumerable verses and whatnot about everything under the sun and it's a lining rhythm though they sometimes sing it just [cut off].",
+      "Layer": "Zora Neale Hurston"
+    }
+  ]
+}
