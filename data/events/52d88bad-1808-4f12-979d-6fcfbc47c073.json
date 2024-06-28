@@ -8,7 +8,16 @@
     }
   ],
   "auto_generate_web_page": true,
-  "description": "Lorem ipsum dolor sit amet consectetur. Elit proin tortor egestas ornare. Non in risus proin in augue justo turpis odio bibendum. Aliquam elementum faucibus sit libero sit auctor nulla dictumst. Cursus tincidunt tempor varius id adipiscing odio sapien suspendisse proin. Nunc nunc libero feugiat enim nibh suspendisse. Id etiam convallis quam non nunc sed velit. Tincidunt a adipiscing netus odio.",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This recording is available on the Florida Memory Project."
+        }
+      ]
+    }
+  ],
   "citation": null,
   "created_at": "2024-06-06T20:19:25+0000",
   "created_by": "tanyaclement",
