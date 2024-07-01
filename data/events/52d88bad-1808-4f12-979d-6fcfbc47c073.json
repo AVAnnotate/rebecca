@@ -1,12 +1,11 @@
 {
-  "audiovisual_files": [
-    {
-      "source_id": "8626c255-953b-4e98-8a10-41033f13a0e5",
+  "audiovisual_files": {
+    "8626c255-953b-4e98-8a10-41033f13a0e5": {
       "label": "S1576, T86-243",
       "file_url": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-243.mp3",
       "duration": 3530
     }
-  ],
+  },
   "auto_generate_web_page": true,
   "description": [
     {
