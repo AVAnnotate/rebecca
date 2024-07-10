@@ -42,30 +42,30 @@ jobs:
 
       # Only publish when directed
       - name: Setup Pages
-        if: ${{ env.project_publish_publishPagesApp == 'true' }}
+        if: ${{ env.project_publish_publish_pages_app == 'true' }}
         id: pages
         uses: actions/configure-pages@v5
 
       - name: Generate Manifest
-        if: ${{ env.project_publish_publishPagesApp == 'true' }}
+        if: ${{ env.project_publish_publish_pages_app == 'true' }}
         working-directory: "./client"
         run: npx tsx ./generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -l "${{ env.project_project_slug}}" -t "${{env.project_project_title}}"
 
       - name: Build Astro Client
-        if: ${{ env.project_publish_publishPagesApp == 'true' }}
+        if: ${{ env.project_publish_publish_pages_app == 'true' }}
         working-directory: "./client"
         run: npm run build \
           --site "${{ steps.pages.outputs.origin }}" \
           --base "${{ steps.pages.outputs.base_path }}"
 
       - name: Upload artifact
-        if: ${{ env.project_publish_publishPagesApp == 'true' }}
+        if: ${{ env.project_publish_publish_pages_app == 'true' }}
         uses: actions/upload-pages-artifact@v3
         with:
           path: "./client/dist/"
 
       - name: Deploy to GitHub Pages
-        if: ${{ env.project_publish_publishPagesApp == 'true' }}
+        if: ${{ env.project_publish_publish_pages_app == 'true' }}
         id: deployment
         uses: actions/deploy-pages@v4
         env:
