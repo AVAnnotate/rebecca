@@ -48,7 +48,7 @@ jobs:
 
       - name: Generate Manifest
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
-        run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -l "${{ env.project_project_slug}}" -t "${{env.project_project_title}}" -s true
+        run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -l "${{ env.project_project_slug}}" -t "${{env.project_project_title}}" -s 'true'
 
       - name: Build Astro Client
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
