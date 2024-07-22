@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "underline": true
+        }
+      ]
+    }
+  ],
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "ff60862c-af7a-45ff-aeef-d673599982c4"
+  },
+  "created_at": "2024-07-02T18:53:00.611Z",
+  "created_by": "lwjameson",
+  "updated_at": "2024-07-02T18:53:00.611Z",
+  "updated_by": "lwjameson",
+  "parent": "4ed6f16a-b79f-43e1-82db-d1f77d3d0f09"
+}
