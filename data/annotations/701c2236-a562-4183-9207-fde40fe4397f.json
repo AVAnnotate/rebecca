@@ -20,7 +20,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "7f4a5aef-4ffa-4928-89ef-b9e754ae38a8"
     },
     {
       "start_time": 48,
@@ -40,7 +41,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "aafcd4c3-2a97-484c-9092-4268fde4c5a3"
     },
     {
       "start_time": 53,
@@ -60,7 +62,8 @@
           "category": "speaker",
           "tag": "Inaudible"
         }
-      ]
+      ],
+      "uuid": "e120e32e-b5e4-4da1-9210-572ca5c3c8d3"
     },
     {
       "start_time": 62,
@@ -80,7 +83,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "d1a9bb4c-7b5f-4141-bb9d-1cfa9725c68f"
     },
     {
       "start_time": 184,
@@ -100,7 +104,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "406c8495-56b9-43c7-a4c9-996d4ad336db"
     },
     {
       "start_time": 341,
@@ -120,7 +125,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "a08f9cf3-5b22-44f9-bfe7-32d69f667c48"
     },
     {
       "start_time": 347,
@@ -140,7 +146,8 @@
           "category": "speaker",
           "tag": "Inaudible"
         }
-      ]
+      ],
+      "uuid": "b3a30189-935f-4efa-8032-8820af016da0"
     },
     {
       "start_time": 359,
@@ -160,7 +167,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "b7ddc825-d569-4f1b-8cf6-b14653618f81"
     },
     {
       "start_time": 524,
@@ -180,7 +188,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "c4d442c3-e577-414d-9f69-b654d108d41f"
     },
     {
       "start_time": 638,
@@ -200,7 +209,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "d2475073-479f-45f5-8868-040397c7860d"
     },
     {
       "start_time": 646,
@@ -220,7 +230,8 @@
           "category": "speaker",
           "tag": "Instruments"
         }
-      ]
+      ],
+      "uuid": "73a21412-efe7-40e8-9656-8cefafa9607e"
     },
     {
       "start_time": 686,
@@ -240,7 +251,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "92a0d116-571b-4056-b388-1fcea8fa9f68"
     },
     {
       "start_time": 697,
@@ -260,7 +272,8 @@
           "category": "speaker",
           "tag": "Instruments"
         }
-      ]
+      ],
+      "uuid": "0512f7f6-2838-41d1-bbfa-fee1cb2a957b"
     },
     {
       "start_time": 771,
@@ -280,7 +293,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "127d3f72-e13b-4068-93d7-3bbdea36249d"
     },
     {
       "start_time": 782,
@@ -300,7 +314,8 @@
           "category": "speaker",
           "tag": "Instruments"
         }
-      ]
+      ],
+      "uuid": "eda4b231-27fe-4e3d-958e-b255edf06249"
     },
     {
       "start_time": 802,
@@ -320,7 +335,8 @@
           "category": "speaker",
           "tag": "Instruments"
         }
-      ]
+      ],
+      "uuid": "21645a6d-3c5e-4bf4-b067-8f2408c0b482"
     },
     {
       "start_time": 825,
@@ -340,7 +356,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "de876b3e-5583-4e8d-a6f7-844c1b876f5d"
     },
     {
       "start_time": 837,
@@ -360,7 +377,8 @@
           "category": "speaker",
           "tag": "Instruments"
         }
-      ]
+      ],
+      "uuid": "6ebd8dd7-8fc9-43d6-b3ff-d42c521ce469"
     },
     {
       "start_time": 872,
@@ -380,7 +398,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "58e3fa50-2eac-4dec-a4a7-f41792dbb4bf"
     },
     {
       "start_time": 885,
@@ -400,7 +419,8 @@
           "category": "speaker",
           "tag": "Instruments"
         }
-      ]
+      ],
+      "uuid": "23a2cf47-cd63-4045-a1f9-d9b47c09d0f4"
     },
     {
       "start_time": 936,
@@ -420,7 +440,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "79533fb6-91fd-47a0-b4ab-54e11df5ebbf"
     },
     {
       "start_time": 944,
@@ -440,7 +461,8 @@
           "category": "speaker",
           "tag": "Inaudible"
         }
-      ]
+      ],
+      "uuid": "0e72ffac-9684-44fb-b732-e6e16ea14125"
     },
     {
       "start_time": 950,
@@ -460,7 +482,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "c7d19953-aaa4-44a8-86c8-bc03ea8cd7ab"
     },
     {
       "start_time": 1086,
@@ -480,7 +503,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "97d5bcfc-0397-4a65-aa6d-d47a69926ced"
     },
     {
       "start_time": 1087,
@@ -500,7 +524,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "0772c4d3-c7a1-4201-b2d9-c4f9ae26a886"
     },
     {
       "start_time": 1226,
@@ -520,7 +545,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "86ad0f79-8c73-41ff-be78-779e6951ab50"
     },
     {
       "start_time": 1232,
@@ -540,7 +566,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "10d3f497-640f-4db7-81cf-4895650faa2c"
     },
     {
       "start_time": 1233,
@@ -560,7 +587,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "b7ab1072-1ce1-4442-83f3-d57d5eeda458"
     },
     {
       "start_time": 1408,
@@ -580,7 +608,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "80332e17-006c-43e8-99b7-d95c86fcfb79"
     },
     {
       "start_time": 1413,
@@ -600,7 +629,8 @@
           "category": "speaker",
           "tag": "Instruments"
         }
-      ]
+      ],
+      "uuid": "1c798455-ec0d-44d7-9073-43f8d3220d0d"
     },
     {
       "start_time": 1450,
@@ -620,7 +650,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "24339b68-c172-44c0-9bb3-e14594fe358b"
     },
     {
       "start_time": 1454,
@@ -640,7 +671,8 @@
           "category": "speaker",
           "tag": "Instruments"
         }
-      ]
+      ],
+      "uuid": "ef4b279e-26c2-4979-b0ab-3beebcf3dc5c"
     },
     {
       "start_time": 1473,
@@ -660,7 +692,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "3aaf93f3-72af-4c33-afa8-83aa137fb8ad"
     },
     {
       "start_time": 1477,
@@ -680,7 +713,8 @@
           "category": "speaker",
           "tag": "Instruments"
         }
-      ]
+      ],
+      "uuid": "87580414-b8c6-4bd8-9f07-4d9a9d769dd6"
     },
     {
       "start_time": 1485,
@@ -700,7 +734,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "8d7dd0ec-c55d-4502-b9b6-86fd95528e56"
     },
     {
       "start_time": 1489,
@@ -720,7 +755,8 @@
           "category": "speaker",
           "tag": "Instruments"
         }
-      ]
+      ],
+      "uuid": "0fbab850-12dd-457f-8b9c-505cad5bf802"
     },
     {
       "start_time": 1520,
@@ -740,7 +776,8 @@
           "category": "speaker",
           "tag": "Instruments"
         }
-      ]
+      ],
+      "uuid": "b4635e4d-0f37-444d-8e10-4cdc293da663"
     },
     {
       "start_time": 1608,
@@ -760,7 +797,8 @@
           "category": "speaker",
           "tag": "Instruments"
         }
-      ]
+      ],
+      "uuid": "4c5419d5-f3c3-4dcf-b45b-e9da590a1134"
     },
     {
       "start_time": 1669,
@@ -780,7 +818,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "72b9b383-6102-472b-b4f0-fcd1b1f2a926"
     },
     {
       "start_time": 1679,
@@ -800,7 +839,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "3804dc53-acd7-4f5b-8147-4ad44739f6e3"
     },
     {
       "start_time": 1681,
@@ -820,7 +860,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "7de0c558-bd71-4e64-ae1c-5196414b4a79"
     },
     {
       "start_time": 1872,
@@ -840,7 +881,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "183ff9cf-36d1-4bae-8f54-a111b42b9b34"
     },
     {
       "start_time": 1973,
@@ -860,7 +902,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "edcdbfd6-3c0a-48fc-b282-40f7fea48906"
     },
     {
       "start_time": 1980,
@@ -880,7 +923,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "e452b70c-2445-48e8-ac1a-719e346d1c71"
     },
     {
       "start_time": 1981,
@@ -900,7 +944,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "699db62c-008e-484d-a39a-bda34168584d"
     },
     {
       "start_time": 2148,
@@ -920,7 +965,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "b93cc250-78b0-46f6-97cb-3f410f14e1af"
     },
     {
       "start_time": 2150,
@@ -940,7 +986,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "e824dde8-ac61-4ad3-b82c-edbea0e2954f"
     },
     {
       "start_time": 2257,
@@ -960,7 +1007,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "66361df3-8eb0-4ff1-bd8c-b0fda16022f4"
     },
     {
       "start_time": 2263,
@@ -980,7 +1028,8 @@
           "category": "speaker",
           "tag": "Inaudible"
         }
-      ]
+      ],
+      "uuid": "ad6c7c04-d7dd-40d4-a17a-2c48e52a310b"
     },
     {
       "start_time": 2274,
@@ -1000,7 +1049,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "9e215a3c-f793-4e3e-a01e-57fa03080d94"
     },
     {
       "start_time": 2439,
@@ -1020,7 +1070,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "3b093506-4b23-44e1-9e2c-b67d6326750b"
     },
     {
       "start_time": 2441,
@@ -1040,7 +1091,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "ea32b798-9c58-4b5b-a518-89f7ea81ffec"
     },
     {
       "start_time": 2491,
@@ -1060,7 +1112,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "fd985d1d-cd4f-46f6-87aa-1e61cba9aa39"
     },
     {
       "start_time": 2493,
@@ -1080,7 +1133,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "e9286fb5-03e9-44fe-a3ba-3a3115e64525"
     },
     {
       "start_time": 2508,
@@ -1100,7 +1154,8 @@
           "category": "speaker",
           "tag": "Distortion"
         }
-      ]
+      ],
+      "uuid": "e04b12be-c186-4349-81ba-f25cbe3a1659"
     },
     {
       "start_time": 2542,
@@ -1120,7 +1175,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "3c52708d-e8f9-461b-9b69-be18fe776002"
     },
     {
       "start_time": 2565,
@@ -1140,7 +1196,8 @@
           "category": "speaker",
           "tag": "Unknown"
         }
-      ]
+      ],
+      "uuid": "6cf1553e-ac00-4a0c-86d4-221dfa40da42"
     },
     {
       "start_time": 2673,
@@ -1160,7 +1217,8 @@
           "category": "speaker",
           "tag": "Distortion"
         }
-      ]
+      ],
+      "uuid": "cca20b8b-e1df-4131-a75e-7daf0eddf173"
     },
     {
       "start_time": 2720,
@@ -1180,7 +1238,8 @@
           "category": "speaker",
           "tag": "Distortion"
         }
-      ]
+      ],
+      "uuid": "8b4c3323-44bf-4031-901b-fffd6de7fc22"
     },
     {
       "start_time": 2726,
@@ -1200,7 +1259,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "cc74f7e2-2e2f-441e-a3eb-642e17d6aa70"
     },
     {
       "start_time": 2730,
@@ -1220,7 +1280,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "8ce0b489-cc69-4269-8cc4-ccc9895cb6e1"
     },
     {
       "start_time": 2750,
@@ -1240,7 +1301,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "d7fd11cd-f85c-468b-8ca6-cf06c44f0488"
     },
     {
       "start_time": 2752,
@@ -1260,7 +1322,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "41da0209-0ecc-4158-bd2c-8db5986dbf27"
     },
     {
       "start_time": 2756,
@@ -1280,7 +1343,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "07553164-6644-4722-b7c0-c4d54340e73d"
     },
     {
       "start_time": 2758,
@@ -1300,7 +1364,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "9047e9a7-ccd4-406c-a3e8-7d1334384fd7"
     },
     {
       "start_time": 2766,
@@ -1320,7 +1385,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "a029d13b-a2f8-4bf6-9dad-de302bef0c6e"
     },
     {
       "start_time": 2767,
@@ -1340,7 +1406,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "41b852b4-6e17-4e17-ac43-1dc595168452"
     },
     {
       "start_time": 2777,
@@ -1360,7 +1427,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "858d34a3-4a94-403d-b062-dadbf8dbb70e"
     },
     {
       "start_time": 2783,
@@ -1380,7 +1448,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "c98b1adc-4339-41da-b487-0d7c5883de84"
     },
     {
       "start_time": 2787,
@@ -1400,7 +1469,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "0f24ca01-b3a0-47a9-882f-f33b100f6bf1"
     },
     {
       "start_time": 2884,
@@ -1420,7 +1490,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "cb5d2151-3de9-44a0-950a-8d2a6c9c366d"
     },
     {
       "start_time": 2888,
@@ -1440,7 +1511,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "87cb0636-60b1-47f3-bf96-c1c30f02df5f"
     },
     {
       "start_time": 2895,
@@ -1460,7 +1532,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "38be607d-0183-4419-9f79-064a806eb3da"
     },
     {
       "start_time": 2903,
@@ -1480,7 +1553,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "5493935e-6aa4-4cc7-bc13-9e2e5937e93e"
     },
     {
       "start_time": 2904,
@@ -1500,7 +1574,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "904f08eb-55ca-4361-8f83-17f09f19e2b0"
     },
     {
       "start_time": 2907,
@@ -1520,7 +1595,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "1f7b28a8-b65c-4840-9630-d85208a2fa71"
     },
     {
       "start_time": 2913,
@@ -1540,7 +1616,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "af2dd9c1-de5f-44f4-b341-5ab86444884f"
     },
     {
       "start_time": 2917,
@@ -1560,7 +1637,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "e4c78358-99f3-4c06-8a06-abb7271b0b4f"
     },
     {
       "start_time": 2918,
@@ -1580,7 +1658,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "ee5d015a-7a01-4ca8-b70b-e590a4af2634"
     },
     {
       "start_time": 2926,
@@ -1600,7 +1679,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "9dfcf1d6-87b0-4c61-89f4-efcb0b9cdd59"
     },
     {
       "start_time": 2927,
@@ -1620,7 +1700,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "ef31c2a3-d43b-44ef-a963-54b078e1075d"
     },
     {
       "start_time": 2935,
@@ -1640,7 +1721,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "b9234e01-5c07-4349-931e-813b693d2c4a"
     },
     {
       "start_time": 2941,
@@ -1660,7 +1742,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "7df59b41-29a5-412c-8027-3379b63148f8"
     },
     {
       "start_time": 2949,
@@ -1680,7 +1763,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "8bcdc9ed-52d1-48ca-b16a-ee89fedf338a"
     },
     {
       "start_time": 2959,
@@ -1700,7 +1784,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "092849f8-4719-4339-bdbe-cee07da3ae3e"
     },
     {
       "start_time": 2969,
@@ -1720,7 +1805,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "af2d59d0-aae7-4a55-af8d-669093cb801e"
     },
     {
       "start_time": 2974,
@@ -1740,7 +1826,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "4266e787-492f-45ba-8d90-271bff3815f0"
     },
     {
       "start_time": 2978,
@@ -1760,7 +1847,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "a1f5eab2-0fa6-402b-9c57-ecb43212c904"
     },
     {
       "start_time": 2987,
@@ -1780,7 +1868,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "339be526-cfb3-42b4-a113-54c6b903277a"
     },
     {
       "start_time": 2989,
@@ -1800,7 +1889,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "c7be4128-18c8-47ba-9ba6-fa7d689c1067"
     },
     {
       "start_time": 2997,
@@ -1820,7 +1910,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "55e07fe6-9e3f-4caa-a7b3-a79ed6f7f469"
     },
     {
       "start_time": 2999,
@@ -1840,7 +1931,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "224e7b63-e4dd-41ed-a9fa-9d86a0c2856d"
     },
     {
       "start_time": 3029,
@@ -1860,7 +1952,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "22710672-3b4f-4359-94c5-cc10dd079d77"
     },
     {
       "start_time": 3051,
@@ -1880,7 +1973,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "ae43b987-0cb2-4e48-bc65-e0355b334aa1"
     },
     {
       "start_time": 3056,
@@ -1900,7 +1994,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "fe7213c1-0dc0-4518-8424-d617f0be262b"
     },
     {
       "start_time": 3057,
@@ -1920,7 +2015,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "be1d4dd7-b5bd-413b-9116-1b1d293413c9"
     },
     {
       "start_time": 3062,
@@ -1940,7 +2036,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "c904d6a3-e00e-4ccc-bb3e-c06b5e3d3e91"
     },
     {
       "start_time": 3068,
@@ -1960,7 +2057,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "08d7ca13-20da-4bbf-b90f-92b7ca18c0e9"
     },
     {
       "start_time": 3069,
@@ -1980,7 +2078,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "7fb26b07-8770-4ef6-ba48-ec3d7b65471a"
     },
     {
       "start_time": 3073,
@@ -2000,7 +2099,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "04b4ef36-000b-427d-9524-fcf4fa0816ae"
     },
     {
       "start_time": 3082,
@@ -2020,7 +2120,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "79a559bd-d36e-4be5-917d-850807d5eaa8"
     },
     {
       "start_time": 3091,
@@ -2040,7 +2141,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "da0059a0-6b64-4f09-b870-2d605115c5d8"
     },
     {
       "start_time": 3093,
@@ -2060,7 +2162,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "e7fe0272-8ec2-4021-b0a3-8d84bd91208a"
     },
     {
       "start_time": 3094,
@@ -2080,7 +2183,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "dfb9340a-1181-4c3a-b9ae-54335966e88e"
     },
     {
       "start_time": 3098,
@@ -2100,7 +2204,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "b3c3a869-a775-465d-815a-1d8e0f203570"
     },
     {
       "start_time": 3100,
@@ -2120,7 +2225,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "4626d571-5fcb-42bd-8cd4-cc1a9e884992"
     },
     {
       "start_time": 3101,
@@ -2140,7 +2246,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "e2523eba-978b-4e14-9c33-a4e675586631"
     },
     {
       "start_time": 3103,
@@ -2160,7 +2267,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "e653691e-3445-495f-8c04-b4a7041c5be5"
     },
     {
       "start_time": 3104,
@@ -2180,7 +2288,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "c43cc379-a386-4cb6-bb48-ae792ec41d60"
     },
     {
       "start_time": 3109,
@@ -2200,7 +2309,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "b165ae3b-db22-4777-ad45-f3e1a75fd7d1"
     },
     {
       "start_time": 3112,
@@ -2220,7 +2330,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "2adba883-1b32-4b34-bf69-631faef65f2b"
     },
     {
       "start_time": 3113,
@@ -2240,7 +2351,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "353a118a-deb7-4f4f-8281-2ffe9eae4103"
     },
     {
       "start_time": 3117,
@@ -2260,7 +2372,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "621aefd0-6e92-412f-895e-d1cc41a9ba34"
     },
     {
       "start_time": 3143,
@@ -2280,7 +2393,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "a7e999a4-6b2a-48f7-9c71-089edecc2e58"
     },
     {
       "start_time": 3154,
@@ -2300,7 +2414,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "5996f616-572c-478c-8276-b60890f677d3"
     },
     {
       "start_time": 3155,
@@ -2320,7 +2435,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "595b38c5-fed1-44f0-a680-63ce9b06d759"
     },
     {
       "start_time": 3158,
@@ -2340,7 +2456,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "4be23724-1b2c-4a71-a69e-62d218d5552e"
     },
     {
       "start_time": 3228,
@@ -2360,7 +2477,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "c0076590-48a7-4ea4-a8c5-7b1d68878b1b"
     },
     {
       "start_time": 3231,
@@ -2380,7 +2498,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "873926c6-2c66-49cb-be6f-d5786ae67e8f"
     },
     {
       "start_time": 3244,
@@ -2400,7 +2519,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "717043bd-8c22-4cf4-a4dd-7fade6254439"
     },
     {
       "start_time": 3246,
@@ -2420,7 +2540,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "3bc2be4e-f394-4856-b15b-9997aad15972"
     },
     {
       "start_time": 3252,
@@ -2440,7 +2561,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "0cb191c3-7c6a-42d3-b82e-a8d8c76d284b"
     },
     {
       "start_time": 3361,
@@ -2460,7 +2582,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "45cb5e8c-b186-43ae-b022-a21f6cb4268b"
     },
     {
       "start_time": 3363,
@@ -2480,7 +2603,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "17f29225-039d-4d25-a53f-9d3282b3380c"
     },
     {
       "start_time": 3363,
@@ -2500,7 +2624,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "0f72789a-0325-4c0a-ad8c-2779ad606f1b"
     },
     {
       "start_time": 3366,
@@ -2520,7 +2645,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "5ac04593-bc4d-4a7a-b4f2-c53361b80bd7"
     },
     {
       "start_time": 3372,
@@ -2540,7 +2666,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "df63343f-62f7-425f-b214-4cb9c0df422d"
     },
     {
       "start_time": 3376,
@@ -2560,7 +2687,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "ef133913-f7ee-4eea-8baf-ccd96f4d29d3"
     },
     {
       "start_time": 3377,
@@ -2580,7 +2708,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "e04b433b-5a9a-4735-b946-17c569e99ea9"
     },
     {
       "start_time": 3378,
@@ -2600,7 +2729,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "1168ad75-bff5-4d1e-b64e-bcb683e5dc4a"
     },
     {
       "start_time": 3381,
@@ -2620,7 +2750,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "19a20354-28ae-4b50-80fe-1825837ccca7"
     },
     {
       "start_time": 3386,
@@ -2640,7 +2771,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "edaf6356-b27b-4cd0-b7b9-5e23265e8457"
     },
     {
       "start_time": 3396,
@@ -2660,7 +2792,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "7319dc0d-4081-4b72-ba74-6f5dcc6509a5"
     },
     {
       "start_time": 3439,
@@ -2680,7 +2813,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "77ce7939-d64d-420f-8ecc-026f2a4f7955"
     },
     {
       "start_time": 3442,
@@ -2700,7 +2834,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "925e1a6f-87d4-48d6-bcf0-5c888632b835"
     },
     {
       "start_time": 3445,
@@ -2720,7 +2855,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "bc084456-c30d-4387-b3a6-4add995dc4ef"
     },
     {
       "start_time": 3448,
@@ -2740,7 +2876,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "252f83c4-3b84-4755-9c09-d3257cc74ceb"
     },
     {
       "start_time": 3453,
@@ -2760,7 +2897,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "eb92e382-986e-4c7c-b6d5-1ce8c89b48e1"
     },
     {
       "start_time": 3456,
@@ -2780,7 +2918,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "36bb0e21-16c7-4705-bc09-d1569eb2527c"
     },
     {
       "start_time": 3461,
@@ -2800,7 +2939,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "a75ba5dc-c3df-4551-acda-844df3754e0f"
     },
     {
       "start_time": 3463,
@@ -2820,7 +2960,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "7f79b6e9-0165-4c64-9ab5-e8b16e433124"
     },
     {
       "start_time": 3470,
@@ -2840,7 +2981,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "53bee516-b0ff-43b7-ab0b-ed42da1293eb"
     },
     {
       "start_time": 3480,
@@ -2860,7 +3002,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "b64f87a4-53fa-46c4-9a8e-f9c8dcf93354"
     },
     {
       "start_time": 3498,
@@ -2880,7 +3023,8 @@
           "category": "speaker",
           "tag": "Library of Congress"
         }
-      ]
+      ],
+      "uuid": "737cccbb-4c56-465f-857e-dab5a7e24b57"
     },
     {
       "start_time": 3508,
@@ -2900,7 +3044,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "d3f9ca42-5e15-41de-8b22-150ad929cfbf"
     },
     {
       "start_time": 3511,
@@ -2920,7 +3065,8 @@
           "category": "speaker",
           "tag": "Herbert Halpert"
         }
-      ]
+      ],
+      "uuid": "28452e06-fa18-4992-8f56-1b755e1679dd"
     },
     {
       "start_time": 3512,
@@ -2940,7 +3086,8 @@
           "category": "speaker",
           "tag": "Zora Neale Hurston"
         }
-      ]
+      ],
+      "uuid": "331510a8-d2c6-44db-87da-5d7fbf15be91"
     }
   ]
 }
