@@ -1011,27 +1011,6 @@
       "uuid": "71bb8e0c-b528-42aa-a36e-079d4424d2e0"
     },
     {
-      "start_time": 1024,
-      "end_time": 1024,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ok, ask her to stay up, go up there and [inaudible] on the piano"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "speaker",
-          "tag": "Herbert Halpert"
-        }
-      ],
-      "uuid": "7edfd0c5-b462-44c2-9591-567efd1e5144"
-    },
-    {
       "start_time": 1270,
       "end_time": 1270,
       "annotation": [
