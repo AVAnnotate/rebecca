@@ -2838,27 +2838,6 @@
       "uuid": "fe4276d0-4f3f-40a4-bf0c-9d9dd55e362c"
     },
     {
-      "start_time": 95,
-      "end_time": 95,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[Distortion]"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "speaker",
-          "tag": "Distortion"
-        }
-      ],
-      "uuid": "65ee5125-2f84-4840-a96f-6ef8432bd70a"
-    },
-    {
       "start_time": 365,
       "end_time": 365,
       "annotation": [
