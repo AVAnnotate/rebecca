@@ -234,27 +234,6 @@
       "uuid": "d54e2db1-cc61-4957-9fb9-0492e645a9af"
     },
     {
-      "start_time": 20,
-      "end_time": 20,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Well, sing it over again? Sing it now?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "speaker",
-          "tag": "Harold B. Hazelhurst"
-        }
-      ],
-      "uuid": "d3e0f41c-262d-4670-a270-8f166997b92a"
-    },
-    {
       "start_time": 136,
       "end_time": 136,
       "annotation": [
