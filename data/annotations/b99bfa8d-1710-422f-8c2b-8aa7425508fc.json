@@ -465,27 +465,6 @@
       "uuid": "d3929a2b-ed75-4242-bcfa-42a408626aff"
     },
     {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "But, did they always have the same tune to it?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "speaker",
-          "tag": "Herbert Halpert"
-        }
-      ],
-      "uuid": "6373b427-cf2d-4bf1-9bc9-b36ca5dbe424"
-    },
-    {
       "start_time": 17,
       "end_time": 17,
       "annotation": [
