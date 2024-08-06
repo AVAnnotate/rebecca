@@ -675,27 +675,6 @@
       "uuid": "917f97fa-561e-4194-b5d1-32065db553a7"
     },
     {
-      "start_time": 368,
-      "end_time": 368,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Go ahead."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "speaker",
-          "tag": "Herbert Halpert"
-        }
-      ],
-      "uuid": "f46cf036-114c-4ad0-ad66-51901cbcf562"
-    },
-    {
       "start_time": 577,
       "end_time": 577,
       "annotation": [
