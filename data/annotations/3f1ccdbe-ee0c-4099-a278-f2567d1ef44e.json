@@ -6805,31 +6805,6 @@
         }
       ],
       "uuid": "309476cb-8e9e-46ce-a975-f9457e70ef1d"
-    },
-    {
-      "uuid": "3841ebe6-c46f-452f-b1f2-1c73ae05e688",
-      "start_time": 0,
-      "end_time": 10,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "i'm a test annotation"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Distortion",
-          "category": "Sound"
-        },
-        {
-          "tag": "Herbert Halpert",
-          "category": "Speaker"
-        }
-      ]
     }
   ]
 }
