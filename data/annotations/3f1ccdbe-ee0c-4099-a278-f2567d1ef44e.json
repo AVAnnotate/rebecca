@@ -6805,27 +6805,6 @@
         }
       ],
       "uuid": "309476cb-8e9e-46ce-a975-f9457e70ef1d"
-    },
-    {
-      "uuid": "7577da81-f4ee-4832-aa54-072035b872fb",
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "hi"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Instruments",
-          "category": "Sound"
-        }
-      ]
     }
   ]
 }
