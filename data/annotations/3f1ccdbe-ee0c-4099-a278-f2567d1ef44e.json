@@ -6826,22 +6826,6 @@
           "category": "Sound"
         }
       ]
-    },
-    {
-      "uuid": "3f5ff145-31cb-4960-a5a9-abe9863f08f9",
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "i'm another test"
-            }
-          ]
-        }
-      ],
-      "tags": []
     }
   ]
 }
