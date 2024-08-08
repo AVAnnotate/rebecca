@@ -6824,6 +6824,10 @@
         {
           "tag": "Instruments",
           "category": "Sound"
+        },
+        {
+          "tag": "Singing",
+          "category": "Sound"
         }
       ]
     }
