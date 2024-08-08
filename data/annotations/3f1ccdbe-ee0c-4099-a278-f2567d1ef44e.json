@@ -6826,6 +6826,27 @@
           "category": "Sound"
         }
       ]
+    },
+    {
+      "uuid": "868de5ee-5287-45fe-aefa-dd2324a47de4",
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hi 2"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ]
     }
   ]
 }
