@@ -3088,27 +3088,6 @@
         }
       ],
       "uuid": "331510a8-d2c6-44db-87da-5d7fbf15be91"
-    },
-    {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "test"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Alabama Singleton",
-          "category": "Speaker"
-        }
-      ],
-      "uuid": "53b80209-2daf-440c-bff8-13595431449b"
     }
   ]
 }
