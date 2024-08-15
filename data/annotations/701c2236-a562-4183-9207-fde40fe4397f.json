@@ -19,6 +19,22 @@
         {
           "category": "speaker",
           "tag": "Unknown"
+        },
+        {
+          "tag": "Beatrice Lange",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Evelyn Werner",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Rolla Southworth",
+          "category": "Speaker"
         }
       ],
       "uuid": "7f4a5aef-4ffa-4928-89ef-b9e754ae38a8"
