@@ -1,1 +1,28 @@
-{"annotations":[],"set":"Default","event_id":"8b25c079-9609-407d-9da6-dfa49a3d8530","source_id":"57138e2a-7c9f-4be5-9dfd-b145593f54fe"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "test"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "b6abac87-061c-4898-972f-8229efa2d24f"
+    }
+  ],
+  "set": "Default",
+  "event_id": "8b25c079-9609-407d-9da6-dfa49a3d8530",
+  "source_id": "57138e2a-7c9f-4be5-9dfd-b145593f54fe"
+}
