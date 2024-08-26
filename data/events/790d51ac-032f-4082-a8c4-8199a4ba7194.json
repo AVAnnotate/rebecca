@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "87588859-18da-4c5d-bdc7-4dc400df9612": {
+      "label": "hi",
+      "file_url": "hi",
+      "duration": 90
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "more testing",
+  "created_at": "2024-08-26T16:32:57.700Z",
+  "created_by": "camdendotlol",
+  "updated_at": "2024-08-26T16:32:57.700Z",
+  "updated_by": "camdendotlol"
+}
