@@ -92,6 +92,22 @@
         }
       ],
       "uuid": "9f8ed31b-1c48-4b02-bd12-52098560f5ef"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "hello"
+        }
+      ],
+      "tags": [
+        {
+          "category": "uncategorized",
+          "tag": "Alabama Singleton"
+        }
+      ],
+      "uuid": "43a67d98-0beb-488a-be39-e58b0f2ccf7b"
     }
   ],
   "set": "Default",
