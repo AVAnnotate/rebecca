@@ -1,1 +1,53 @@
-{"annotations":[],"set":"Default","event_id":"790d51ac-032f-4082-a8c4-8199a4ba7194","source_id":"87588859-18da-4c5d-bdc7-4dc400df9612"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i'm"
+            },
+            {
+              "text": " a ",
+              "bold": true
+            },
+            {
+              "text": "test",
+              "italic": true,
+              "bold": true
+            },
+            {
+              "text": " ",
+              "bold": true
+            },
+            {
+              "text": "anno",
+              "underline": true,
+              "bold": true
+            },
+            {
+              "underline": true,
+              "text": "tation"
+            },
+            {
+              "text": "!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alabama Singleton",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0ad1da66-3b19-431c-b597-73aa13f19cc0"
+    }
+  ],
+  "set": "Default",
+  "event_id": "790d51ac-032f-4082-a8c4-8199a4ba7194",
+  "source_id": "87588859-18da-4c5d-bdc7-4dc400df9612"
+}
