@@ -33,6 +33,18 @@ jobs:
         working-directory: "./client"
         run: npm install
 
+      - name: Ensure a content directory
+        run: mkdir -p "./client/src/content"
+
+      - name: Copy data to contebnt directory
+        run: cp -r ./data/* ./client/src/content
+
+      - name: Make a project directory if it does not exist
+        run: mkdir -p "./client/src/content/project"
+
+      - name: Move project.json file to project directory
+        run: mv ./client/src/content/project.json ./client/src/content/project/project.json
+
       - name: Read in the project file
         id: project
         uses: antifree/json-to-variables@v1.0.1
@@ -46,23 +58,12 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Generate Manifest
-        if: ${{ env.project_publish_publish_pages_app == 'true' }}
-        run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -l "${{ env.project_project_slug}}" -t "${{env.project_project_title}}" -s 'true'
-
       - name: Build Astro Client
+        uses: withastro/action@v2
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
-        working-directory: "./client"
-        run: npm run build \
-          --site "${{ steps.pages.outputs.origin }}" \
-          --base "${{ steps.pages.outputs.base_path }}"
-
-      - name: Upload artifact
-        if: ${{ env.project_publish_publish_pages_app == 'true' }}
-        uses: actions/upload-pages-artifact@v3
         with:
-          path: "./client/dist/"
-
+            path:  "./client"
+            
       - name: Deploy to GitHub Pages
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
         id: deployment
