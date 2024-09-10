@@ -51,53 +51,6 @@
       "end_time": 0,
       "annotation": [
         {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "i'm"
-            },
-            {
-              "text": " a ",
-              "bold": true,
-              "italic": true
-            },
-            {
-              "text": "test",
-              "bold": true,
-              "italic": true
-            },
-            {
-              "text": " ",
-              "bold": true,
-              "italic": true
-            },
-            {
-              "text": "anno",
-              "bold": true,
-              "italic": true
-            },
-            {
-              "text": "tation"
-            },
-            {
-              "text": "!"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "uncategorized",
-          "tag": "Alabama Singleton"
-        }
-      ],
-      "uuid": "9f8ed31b-1c48-4b02-bd12-52098560f5ef"
-    },
-    {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
           "0": {
             "type": "paragraph",
             "children": [
