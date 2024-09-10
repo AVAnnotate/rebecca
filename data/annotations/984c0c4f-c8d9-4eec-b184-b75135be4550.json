@@ -98,22 +98,6 @@
       "end_time": 0,
       "annotation": [
         {
-          "text": "hello"
-        }
-      ],
-      "tags": [
-        {
-          "category": "uncategorized",
-          "tag": "Alabama Singleton"
-        }
-      ],
-      "uuid": "43a67d98-0beb-488a-be39-e58b0f2ccf7b"
-    },
-    {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
           "0": {
             "type": "paragraph",
             "children": [
