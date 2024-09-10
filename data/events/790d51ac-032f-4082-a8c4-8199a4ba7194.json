@@ -12,7 +12,40 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Lorem",
+          "bold": true
+        },
+        {
+          "text": " ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation "
+        },
+        {
+          "text": "ullamco",
+          "highlight": "#d4fb78"
+        },
+        {
+          "text": " laboris nisi ut aliquip ex ea commodo consequat. "
+        },
+        {
+          "text": "Duis",
+          "code": true
+        },
+        {
+          "text": " aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint "
+        },
+        {
+          "text": "occaecat",
+          "italic": true,
+          "underline": true
+        },
+        {
+          "text": " cupidatat non "
+        },
+        {
+          "text": "proident",
+          "strikethrough": true
+        },
+        {
+          "text": ", sunt in culpa qui officia deserunt mollit anim id est laborum."
         }
       ]
     }
@@ -22,6 +55,6 @@
   "label": "more testing",
   "created_at": "2024-08-26T16:32:57.700Z",
   "created_by": "camdendotlol",
-  "updated_at": "2024-09-04T20:05:57.623Z",
+  "updated_at": "2024-09-10T20:40:51.778Z",
   "updated_by": "camdendotlol"
 }
