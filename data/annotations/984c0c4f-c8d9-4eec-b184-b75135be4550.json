@@ -136,6 +136,22 @@
         }
       ],
       "uuid": "e2b7fe18-7faf-4c49-a289-ba58ecd26f3d"
+    },
+    {
+      "start_time": 23,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "test annotation for the middle of the video"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6f3ba83d-dca0-4b5d-8fe5-e9117de3479f"
     }
   ],
   "set": "Default",
