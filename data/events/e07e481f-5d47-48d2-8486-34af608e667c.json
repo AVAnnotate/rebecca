@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "ba59df53-515e-475e-8e42-e8851bb2f3ae": {
+      "label": "yee",
+      "file_url": "https://www.youtube.com/watch?v=q6EoRBvdVPQ",
+      "duration": 9
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "i'm a video event with only one set"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "video event with one set",
+  "created_at": "2024-09-12T16:28:17.793Z",
+  "created_by": "camdendotlol",
+  "updated_at": "2024-09-12T16:28:17.793Z",
+  "updated_by": "camdendotlol"
+}
