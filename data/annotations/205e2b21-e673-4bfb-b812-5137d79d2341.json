@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "they really called it the Hubert Humphrey Metrodome 😂"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Games",
+          "category": "_uncategorized_"
+        }
+      ],
+      "uuid": "25a50000-6dbb-46f5-9870-0d7235e0586e"
+    }
+  ],
   "set": "Default",
   "event_id": "e07e481f-5d47-48d2-8486-34af608e667c",
   "source_id": "ba59df53-515e-475e-8e42-e8851bb2f3ae"
