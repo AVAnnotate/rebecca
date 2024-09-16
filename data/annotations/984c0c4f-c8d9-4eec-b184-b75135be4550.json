@@ -1,1 +1,117 @@
-{"annotations":[],"set":"Default","event_id":"790d51ac-032f-4082-a8c4-8199a4ba7194","source_id":"87588859-18da-4c5d-bdc7-4dc400df9612"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i'm"
+            },
+            {
+              "text": " a ",
+              "bold": true
+            },
+            {
+              "text": "test",
+              "italic": true,
+              "bold": true
+            },
+            {
+              "text": " ",
+              "bold": true
+            },
+            {
+              "text": "anno",
+              "underline": true,
+              "bold": true
+            },
+            {
+              "underline": true,
+              "text": "tation"
+            },
+            {
+              "text": "!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Alabama Singleton",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Evelyn Werner",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Carita Doggett Corse",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Rolla Southworth",
+          "category": "Speaker"
+        },
+        {
+          "tag": "H. W. Stuckey",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Irene Jackson",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "0ad1da66-3b19-431c-b597-73aa13f19cc0"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "text": "hello"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "uncategorized",
+          "tag": "Alabama Singleton"
+        }
+      ],
+      "uuid": "e2b7fe18-7faf-4c49-a289-ba58ecd26f3d"
+    },
+    {
+      "start_time": 23,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "test annotation for the middle of the video"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6f3ba83d-dca0-4b5d-8fe5-e9117de3479f"
+    }
+  ],
+  "set": "Default",
+  "event_id": "790d51ac-032f-4082-a8c4-8199a4ba7194",
+  "source_id": "87588859-18da-4c5d-bdc7-4dc400df9612"
+}

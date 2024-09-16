@@ -1,9 +1,9 @@
 {
   "audiovisual_files": {
     "87588859-18da-4c5d-bdc7-4dc400df9612": {
-      "label": "hi",
-      "file_url": "hi",
-      "duration": 90
+      "label": "video",
+      "file_url": "https://archive.org/download/cccomd-Tidbits_Black_History_Month_-_Zora_Neal_Hurston/Tidbits_Black_History_Month_-_Zora_Neal_Hurston.mp4",
+      "duration": 81
     }
   },
   "auto_generate_web_page": true,
@@ -12,16 +12,49 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Lorem",
+          "bold": true
+        },
+        {
+          "text": " ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation "
+        },
+        {
+          "text": "ullamco",
+          "highlight": "#d4fb78"
+        },
+        {
+          "text": " laboris nisi ut aliquip ex ea commodo consequat. "
+        },
+        {
+          "text": "Duis",
+          "code": true
+        },
+        {
+          "text": " aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint "
+        },
+        {
+          "text": "occaecat",
+          "italic": true,
+          "underline": true
+        },
+        {
+          "text": " cupidatat non "
+        },
+        {
+          "text": "proident",
+          "strikethrough": true
+        },
+        {
+          "text": ", sunt in culpa qui officia deserunt mollit anim id est laborum."
         }
       ]
     }
   ],
-  "citation": "",
-  "item_type": "Audio",
+  "citation": "I'm a really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really really long citation!",
+  "item_type": "Video",
   "label": "more testing",
   "created_at": "2024-08-26T16:32:57.700Z",
   "created_by": "camdendotlol",
-  "updated_at": "2024-08-26T16:32:57.700Z",
+  "updated_at": "2024-09-12T19:35:44.739Z",
   "updated_by": "camdendotlol"
 }

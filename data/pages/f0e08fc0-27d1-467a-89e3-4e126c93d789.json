@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2024-09-12T16:28:18.120Z",
+  "created_by": "camdendotlol",
+  "title": "video event with one set",
+  "updated_at": "2024-09-12T16:28:18.120Z",
+  "updated_by": "camdendotlol",
+  "parent": "4ed6f16a-b79f-43e1-82db-d1f77d3d0f09",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "e07e481f-5d47-48d2-8486-34af608e667c"
+  }
+}
