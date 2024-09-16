@@ -79,7 +79,6 @@ jobs:
 
       - name: Build Astro Client
         uses: withastro/action@v2
-        uses: withastro/action@v2
         if: ${{ env.project_publish_publish_pages_app == 'true' }}
         with:
           path: "./client"
