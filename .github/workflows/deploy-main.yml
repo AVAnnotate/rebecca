@@ -26,7 +26,7 @@ jobs:
         with:
           repository: AVAnnotate/project-client
           path: "./client"
-          ref: $($PROJECT_CLIENT_BRANCH || 'main')
+          ref: ${{vars.PROJECT_CLIENT_BRANCH || 'main'}}
 
       - name: npm install
         working-directory: "./client"
