@@ -72,9 +72,9 @@ jobs:
       - name: Make a manifests directory if it does not exist
         run: mkdir -p "./client/src/content/manifests"
 
-      # - name: Generate manifest
-      #   if: ${{ env.project_publish_publish_pages_app == 'true' }}
-      #   run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -l "${{ env.project_project_slug}}" -t "${{env.project_project_title}}" -s 'true'
+      - name: Generate manifest
+        if: ${{ env.project_publish_publish_pages_app == 'true' }}
+        run: npx tsx ./client/generate-iiif-3-manifests.ts -d './data' -u "https://${{ github.repository_owner }}.github.io/${{ env.project_project_slug}}" -l "${{ env.project_project_slug}}" -t "${{env.project_project_title}}" -s 'true'
 
       - name: Build Astro Client
         uses: withastro/action@v2
